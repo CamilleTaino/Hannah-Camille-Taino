@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a19be11-fa1a-43e8-938b-4d75482e5296": {
+      "ProjectGuid": "6a19be11-fa1a-43e8-938b-4d75482e5296",
+      "DisplayName": "Assessment",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2a6787df-455a-4b1c-b387-316163524b46": {
+      "ProjectGuid": "2a6787df-455a-4b1c-b387-316163524b46",
+      "DisplayName": "AssessmentUnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
