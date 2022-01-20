@@ -15,7 +15,6 @@ namespace Assessment.FacadePattern.FoodChain
             mcdo.McdoOrderPickup();
             Chowking chowking = new Chowking();
             chowking.ChowkingOrderPickup();
-;
         }
     }
 }
